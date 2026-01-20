@@ -11,6 +11,7 @@ Primary Tool: MySQL Workbench
 Alternative Tool: PostgreSQL
 
 Note: The SQL syntax used in this task is compatible with both MySQL and PostgreSQL, requiring minimal or no modifications.
+
 🗂 Database Table Used
 Table Name: students
 students
