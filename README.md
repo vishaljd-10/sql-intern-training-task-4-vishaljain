@@ -17,8 +17,13 @@ Table Name: students
 students
 --------
 student_id   INT
+
 name         VARCHAR(100)
+
 email        VARCHAR(100)
+
 age          INT
+
 phone        VARCHAR(15)
+
 city         VARCHAR(50)
